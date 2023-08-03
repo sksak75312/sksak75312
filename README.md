@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![Bootstrap](https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff) ![React](https://img.shields.io/badge/Learning-ff7800?style=flat-square&logo=react&label=React&labelColor=%231F2229) ![Babel](https://img.shields.io/badge/Learning-ff7800?style=flat-square&logo=babel&label=Babel&labelColor=%231F2229)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff) ![React](https://img.shields.io/badge/Learning-ff7800?style=flat-square&logo=react&label=React&labelColor=%231F2229) ![Babel](https://img.shields.io/badge/Learning-ff7800?style=flat-square&logo=babel&label=Babel&labelColor=%231F2229) ![Green Sock](https://img.shields.io/badge/Learning-ff7800?style=flat-square&logo=greensock&label=Green%20Sock)
+
