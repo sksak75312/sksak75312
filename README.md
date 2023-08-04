@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Eero
+![](https://komarev.com/ghpvc/?username=sksak75312&style=flat-square&color=fb9902)
 
+[📧](mailto:sksak75312@outlook.com)
 
 ## 💻Languages & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
@@ -25,3 +27,6 @@ Here are some ideas to get you started:
 
 ![Green Sock](https://img.shields.io/badge/Learning-ff7800?style=flat-square&logo=greensock&label=Green%20Sock)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksak75312&layout=compact&theme=shadow_blue) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksak75312&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
