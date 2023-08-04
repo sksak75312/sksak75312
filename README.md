@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksak75312&layout=compact&theme=shadow_blue) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksak75312&show_icons=true&theme=shadow_blue)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksak75312&show_icons=true&theme=shadow_blue)
