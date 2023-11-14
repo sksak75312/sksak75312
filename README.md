@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Eero
-![](https://komarev.com/ghpvc/?username=sksak75312&style=flat-square&color=fb9902)
+![](https://www.codewars.com/users/Eero/badges/large) <br>
+![](https://komarev.com/ghpvc/?username=sksak75312&style=flat-square&color=fb9902) <br>
 
 [📧](mailto:sksak75312@outlook.com)
 
