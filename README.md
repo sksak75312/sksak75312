@@ -2,7 +2,7 @@
 
 <br>
 
-### 💻 技能
+### 💻 My Skills
 ![Vue3](https://img.shields.io/badge/Vue%203-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) 
 ![Bootstrap](https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff) 
@@ -20,7 +20,7 @@
 ![](https://www.codewars.com/users/Eero/badges/large) <br>
 ---
 
-### Github State
+### Coding Journey
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksak75312&show_icons=true&theme=shadow_blue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksak75312&layout=compact&theme=shadow_blue)
 ---
 
