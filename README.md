@@ -4,6 +4,7 @@
 
 ### 💻 My Skills
 ![Vue3](https://img.shields.io/badge/Vue%203-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) 
 ![Bootstrap](https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
