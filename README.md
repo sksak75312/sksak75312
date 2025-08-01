@@ -19,34 +19,4 @@
 
 ---
 
-
-### Code Wars
-![](https://www.codewars.com/users/Eero/badges/large) <br>
----
-
-### Coding Journey
-![](https://github-readme-stats.vercel.app/api?username=sksak75312&show_icons=true&theme=shadow_blue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksak75312&layout=compact&theme=shadow_blue)
----
-
-
-![](https://komarev.com/ghpvc/?username=sksak75312&style=flat-square&color=fb9902) 
-
-<div align="center">
-  <a href="mailto:sksak75312@outlook.com">📧</a>
-</div>
-
-
-<!--
-**sksak75312/sksak75312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sksak75312&theme=transparent" width="100%">
