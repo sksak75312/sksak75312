@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, 我是 Eero </h3> 
+<h3 align="center"> Hi, I'm Eero Chiao</h3> 
 <br>
 
 ### 💻 My Skills
